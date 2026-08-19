@@ -1,0 +1,7 @@
+{
+  "name": "Maharaja's Table",
+  "description": "Ultra luxury Indian fine dining restaurant with royal heritage recipes, interactive menu, wine pairings, and reservation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
